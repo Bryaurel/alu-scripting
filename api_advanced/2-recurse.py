@@ -1,4 +1,4 @@
-#!/usr/bin/python#
+#!/usr/bin/python3
 """ recurse.py """
 import requests
 
